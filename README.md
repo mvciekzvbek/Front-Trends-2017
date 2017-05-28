@@ -2,7 +2,7 @@
 ### 24- 26 May 2017, Warsaw
 
 **Day 1, May 24th**
-	1. Maciej Ceglowski (Yahoo, Twitter, Otworz ksiązke): Legends of the Ancient Web - *Past and future of the Web*
+	1. [Maciej Ceglowski](Yahoo, Twitter, Otworz ksiązke): Legends of the Ancient Web - *Past and future of the Web*
 	2. Una Kravets (Digital Ocean): The Power of CSS HTML - *CSS*
 	3. Vitaly Friedman (Smashing Magazine): Smashing Magazine’s 2017 Relaunch - *Responsive design/HTML, CSS, UX*
 	4. Sam Bellen (Madewithlove): I didn't know the browser could do that! Browsers - *APIs*
