@@ -1,8 +1,8 @@
 ## Front Trends 2017
 ### 24- 26 May 2017, Warsaw
 
-**Day 1, May 24th:**
-		*. [Maciej Ceglowski (Yahoo, Twitter, Otworz ksiązke): Legends of the Ancient Web](#maciej) - *Past and future of the Web*
+**Day 1, May 24th**
+	* [Maciej Ceglowski (Yahoo, Twitter, Otworz ksiązke): Legends of the Ancient Web](#maciej) - *Past and future of the Web*
 	* [Una Kravets (Digital Ocean): The Power of CSS HTML](#una) - *CSS*
 	* [Vitaly Friedman (Smashing Magazine): Smashing Magazine’s 2017 Relaunch](#vitaly) - *Responsive design/HTML, CSS, UX*
 	* [Sam Bellen (Madewithlove): I didn't know the browser could do that! Browsers](#sam) - *APIs*
