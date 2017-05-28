@@ -36,9 +36,21 @@ My notes on [Front-Trends 2017](https://2017.front-trends.com/).
 
 <a name="maciej"></a>
 # Maciej Ceglowski (Yahoo, Twitter, Otworz ksiązke): Legends of the Ancient Web
+Presentation about past and future of web. Maciej said that web is like vicious circle: what has been will be again. In the last couple of years, frontend development has become very complex: there are lots of technologies and frameworks to master. Computers move fast. It's happened before, and will happen again.
+
+There was few information about radio history, because like internet now radio brought people closer.
+
+Technology and human nature interact in interesting ways. It is very possible the things we build may be used for bad later on. This is a threat, and we need to take it seriously.
+
+What you're working on, who you are working for matters. It's not about frameworks and libraries, it's about direction the internet is going. We need to from history of radio and how it was used for evil and try not to repeat those mistakes.
 
 <a name="una"></a>
 # Una Kravets (Digital Ocean): The Power of CSS
+
+We can make many Photoshop look-like effects just using css. Una showed us 10 effects written in css: modals, lightboxes, tooltips, scroll indicators, carousels.
+They don't need JS. You can have the same results using target, data attributes, siblings- and pseudo-selectors.
+
+http://youmightnotneedjs.com/
 
 <a name="vitaly"></a>
 # Vitaly Friedman (Smashing Magazine): Smashing Magazine’s 2017 Relaunch
