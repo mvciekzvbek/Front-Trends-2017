@@ -4,13 +4,13 @@
 **Day 1, May 24th**
 	1. [Maciej Ceglowski (Yahoo, Twitter, Otworz ksiązke): Legends of the Ancient Web](#maciej) - *Past and future of the Web*
 	2. [Una Kravets (Digital Ocean): The Power of CSS HTML](#una) - *CSS*
-	3. Vitaly Friedman (Smashing Magazine): Smashing Magazine’s 2017 Relaunch - *Responsive design/HTML, CSS, UX*
-	4. Sam Bellen (Madewithlove): I didn't know the browser could do that! Browsers - *APIs*
-	5. Adam Morse (compositor.io): The past and future of designing interfaces - *CSS*
-	6. Marco Cedaro (Shazam, Kahoot, Crowdcube): Components, patterns and shit it’s hard to deal with - *Patterns*
-	7. Stefan Judis (Contentful): Watch your back, Browser! You're being observed. Browsers - *APIs*
-	8. Ally Long (freelancer): Field-tested interfaces for the next billion - *UX*
-	9. Niels Leenheer (HTML5Test.com): Monsters, mailboxes and other nonsense - *IoT*
+	3. [Vitaly Friedman (Smashing Magazine): Smashing Magazine’s 2017 Relaunch](#vitaly) - *Responsive design/HTML, CSS, UX*
+	4. [Sam Bellen (Madewithlove): I didn't know the browser could do that! Browsers](#sam) - *APIs*
+	5. [Adam Morse (compositor.io): The past and future of designing interfaces](#adam) - *CSS*
+	6. [Marco Cedaro (Shazam, Kahoot, Crowdcube): Components, patterns and shit it’s hard to deal with](#marco) - *Patterns*
+	7. [Stefan Judis (Contentful): Watch your back, Browser! You're being observed. Browsers](#marco) - *APIs*
+	8. [Ally Long (freelancer): Field-tested interfaces for the next billion](#ally) - *UX*
+	9. [Niels Leenheer (HTML5Test.com): Monsters, mailboxes and other nonsense](#niels) - *IoT*
 
 **Day 2, May 25th**
 	1. Patrick Hamann (Fastly, The Guardian, Financial Times): The First Meaningful Paint - *Performance*
