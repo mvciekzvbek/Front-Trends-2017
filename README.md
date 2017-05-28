@@ -1,26 +1,26 @@
 ## Front Trends 2017
 ### 24- 26 May 2017, Warsaw
 
-**Day 1**
-	1. [Maciej Ceglowski (Yahoo, Twitter, Otworz ksiązke): Legends of the Ancient Web](#maciej) - *Past and future of the Web*
-	2. [Una Kravets (Digital Ocean): The Power of CSS HTML](#una) - *CSS*
-	3. [Vitaly Friedman (Smashing Magazine): Smashing Magazine’s 2017 Relaunch](#vitaly) - *Responsive design/HTML, CSS, UX*
-	4. [Sam Bellen (Madewithlove): I didn't know the browser could do that! Browsers](#sam) - *APIs*
-	5. [Adam Morse (compositor.io): The past and future of designing interfaces](#adam) - *CSS*
-	6. [Marco Cedaro (Shazam, Kahoot, Crowdcube): Components, patterns and shit it’s hard to deal with](#marco) - *Patterns*
-	7. [Stefan Judis (Contentful): Watch your back, Browser! You're being observed. Browsers](#marco) - *APIs*
-	8. [Ally Long (freelancer): Field-tested interfaces for the next billion](#ally) - *UX*
-	9. [Niels Leenheer (HTML5Test.com): Monsters, mailboxes and other nonsense](#niels) - *IoT*
+**Day 1, May 24th**
+1. [Maciej Ceglowski (Yahoo, Twitter, Otworz ksiązke): Legends of the Ancient Web](#maciej) - *Past and future of the Web*
+2. [Una Kravets (Digital Ocean): The Power of CSS HTML](#una) - *CSS*
+3. [Vitaly Friedman (Smashing Magazine): Smashing Magazine’s 2017 Relaunch](#vitaly) - *Responsive design/HTML, CSS, UX*
+4. [Sam Bellen (Madewithlove): I didn't know the browser could do that! Browsers](#sam) - *APIs*
+5. [Adam Morse (compositor.io): The past and future of designing interfaces](#adam) - *CSS*
+6. [Marco Cedaro (Shazam, Kahoot, Crowdcube): Components, patterns and shit it’s hard to deal with](#marco) - *Patterns*
+7. [Stefan Judis (Contentful): Watch your back, Browser! You're being observed. Browsers](#marco) - *APIs*
+8. [Ally Long (freelancer): Field-tested interfaces for the next billion](#ally) - *UX*
+9. [Niels Leenheer (HTML5Test.com): Monsters, mailboxes and other nonsense](#niels) - *IoT*
 
 **Day 2, May 25th**
-	1. Patrick Hamann (Fastly, The Guardian, Financial Times): The First Meaningful Paint - *Performance*
-	2. Zoe Mickley Gillenwater (Booking.com): Experimenting your way to a better product - *A/B testing*
-	3. Vadim Makeev (HTML5Academy): I'm in IoT IoT, APIs - *Bluetooth & IoT*
-	4. Val Head (lynda.com, web design day conference): Motion In Design Systems: Animation, Style Guides, and the Design Process - *Animations*
-	5. Kirupa Chinnathambi (Microsoft, kirupa.com): Building a Progressive Web App - *PWAs*
-	6. Lin Clark (Mozilla): A Cartoon Intro to React Fiber - *React*
-	7. Jack Franklin (Songkick): The How, What and Why of migrating to ReactJS - *React*
-	8. Mihai Cernusca (Gifshop): Prevent Default — The future of authoring tools - *UX, mark-up, future of the web*
+1. [Patrick Hamann (Fastly, The Guardian, Financial Times): The First Meaningful Paint](#patrick) - *Performance*
+2. [Zoe Mickley Gillenwater (Booking.com): Experimenting your way to a better product](#zoe) - *A/B testing*
+3. [Vadim Makeev (HTML5Academy): I'm in IoT IoT, APIs](#vadim) - *Bluetooth & IoT*
+4. [Val Head (lynda.com, web design day conference): Motion In Design Systems: Animation, Style Guides, and the Design Process](#val) - *Animations*
+5. [Kirupa Chinnathambi (Microsoft, kirupa.com): Building a Progressive Web App](#kirupa) - *PWAs*
+6. [Lin Clark (Mozilla): A Cartoon Intro to React Fiber](#lin) - *React*
+7. [Jack Franklin (Songkick): The How, What and Why of migrating to ReactJS](#jack) - *React*
+8. [Mihai Cernusca (Gifshop): Prevent Default — The future of authoring tools](#mihai) - *UX, mark-up, future of the web*
 
 **Day 3, May 26th**
 	1. Konrad Dzwinel (Brainly, Google Developer Expert): Alternative Reality DevTools - *Devtools*
