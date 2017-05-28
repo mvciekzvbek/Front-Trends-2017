@@ -5,19 +5,19 @@ My notes on [Front-Trends 2017](https://2017.front-trends.com/).
 
 **Day 1, May 24th**
 1. [Maciej Ceglowski (Yahoo, Twitter, Otworz ksiązke): Legends of the Ancient Web](#maciej) - *Past and future of the Web*
-2. [Una Kravets (Digital Ocean): The Power of CSS HTML](#una) - *CSS*
+2. [Una Kravets (Digital Ocean): The Power of CSS](#una) - *CSS*
 3. [Vitaly Friedman (Smashing Magazine): Smashing Magazine’s 2017 Relaunch](#vitaly) - *Responsive design/HTML, CSS, UX*
-4. [Sam Bellen (Madewithlove): I didn't know the browser could do that! Browsers](#sam) - *APIs*
+4. [Sam Bellen (Madewithlove): I didn't know the browser could do that!](#sam) - *Browsers APIs*
 5. [Adam Morse (compositor.io): The past and future of designing interfaces](#adam) - *CSS*
 6. [Marco Cedaro (Shazam, Kahoot, Crowdcube): Components, patterns and shit it’s hard to deal with](#marco) - *Patterns*
-7. [Stefan Judis (Contentful): Watch your back, Browser! You're being observed. Browsers](#marco) - *APIs*
+7. [Stefan Judis (Contentful): Watch your back, Browser! You're being observed.](#stefan) - *Browser APIs*
 8. [Ally Long (freelancer): Field-tested interfaces for the next billion](#ally) - *UX*
 9. [Niels Leenheer (HTML5Test.com): Monsters, mailboxes and other nonsense](#niels) - *IoT*
 
 **Day 2, May 25th**
 1. [Patrick Hamann (Fastly, The Guardian, Financial Times): The First Meaningful Paint](#patrick) - *Performance*
 2. [Zoe Mickley Gillenwater (Booking.com): Experimenting your way to a better product](#zoe) - *A/B testing*
-3. [Vadim Makeev (HTML5Academy): I'm in IoT IoT, APIs](#vadim) - *Bluetooth & IoT*
+3. [Vadim Makeev (HTML5Academy): I'm in IoT](#vadim) - *APIs, Bluetooth & IoT*
 4. [Val Head (lynda.com, web design day conference): Motion In Design Systems: Animation, Style Guides, and the Design Process](#val) - *Animations*
 5. [Kirupa Chinnathambi (Microsoft, kirupa.com): Building a Progressive Web App](#kirupa) - *PWAs*
 6. [Lin Clark (Mozilla): A Cartoon Intro to React Fiber](#lin) - *React*
@@ -33,6 +33,82 @@ My notes on [Front-Trends 2017](https://2017.front-trends.com/).
 6. [Chris Wright (Campaign Monitor): Changing the layout game HTML](#chris) - *CSS*
 7. [Rosie Campbel (BBC Technologist): Demystifying Deep Neural Networks](#rosie) - *Machine learning, Neural Networks*
 8. [Phil Hawksworth (R/GA): Microservices - The FAAS and the Furious](#phil) - *Microservices*
+
+<a name="maciej"></a>
+# Maciej Ceglowski (Yahoo, Twitter, Otworz ksiązke): Legends of the Ancient Web
+
+<a name="una"></a>
+# Una Kravets (Digital Ocean): The Power of CSS
+
+<a name="vitaly"></a>
+# Vitaly Friedman (Smashing Magazine): Smashing Magazine’s 2017 Relaunch
+
+<a name="sam"></a>
+# Sam Bellen (Madewithlove): I didn't know the browser could do that!
+
+<a name="adam"></a>
+# Adam Morse (compositor.io): The past and future of designing interfaces
+
+<a name="marco"></a>
+# Marco Cedaro (Shazam, Kahoot, Crowdcube): Components, patterns and sh*t it’s hard to deal with
+
+<a name="stefan"></a>
+# Stefan Judis (Contentful): Watch your back, Browser! You're being observed.
+
+<a name="niels"></a>
+# Niels Leenheer (HTML5Test.com): Monsters, mailboxes and other nonsense
+
+<a name="ally"></a>
+# Ally Long (freelancer): Field-tested interfaces for the next billion
+
+<a name="patrick"></a>
+# Patrick Hamann (Fastly, The Guardian, Financial Times): The First Meaningful Paint
+
+<a name="zoe"></a>
+# Zoe Mickley Gillenwater (Booking.com): Experimenting your way to a better product
+
+<a name="vadim"></a>
+# Vadim Makeev (HTML5Academy): I'm in IoT
+
+<a name="val"></a>
+# Val Head (lynda.com, web design day conference): Motion In Design Systems: Animation, Style Guides, and the Design Process
+
+<a name="kirupa"></a>
+# Kirupa Chinnathambi (Microsoft, kirupa.com): Building a Progressive Web App
+
+<a name="lin"></a>
+# Lin Clark (Mozilla): A Cartoon Intro to React Fiber
+
+<a name="jack"></a>
+# Jack Franklin (Songkick): The How, What and Why of migrating to ReactJS
+
+<a name="mihai"></a>
+# Mihai Cernusca (Gifshop): Prevent Default — The future of authoring tools
+
+<a name="konrad"></a>
+# Konrad Dzwinel (Brainly, Google Developer Expert): Alternative Reality DevTools
+
+<a name="martin"></a>
+# Martin Splitt (Archilogic):  Rendering performance inside out
+
+<a name="ida"></a>
+# Ida Aalen (freelancer): Easy and affordable user-testing
+
+<a name="ola"></a>
+# Ola Gasidło (Mozilla): Let's save the internet: How to make browsers compatible with the web
+
+<a name="jenna"></a>
+# Jenna Zeigen (Digital Ocean): On How Your Brain is Conspiring Against You Making Good Software
+
+<a name="chris"></a>
+# Chris Wright (Campaign Monitor): Changing the layout game HTML
+
+<a name="rosie"></a>
+# Rosie Campbel (BBC Technologist): Demystifying Deep Neural Networks
+
+<a name="phil"></a>
+# Phil Hawksworth (R/GA): Microservices - The FAAS and the Furious
+
 
 <!-- 
 <a name="maciej"></a>
