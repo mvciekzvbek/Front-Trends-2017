@@ -36,7 +36,7 @@ My notes on [Front-Trends 2017](https://2017.front-trends.com/).
 
 <a name="maciej"></a>
 # Maciej Ceglowski (Yahoo, Twitter, Otworz ksiązke): Legends of the Ancient Web
-Presentation about past and future of web. Maciej said that web is like vicious circle: what has been will be again. In the last couple of years, frontend development has become very complex: there are lots of technologies and frameworks to master. Computers move fast. It's happened before, and will happen again.
+Presentation about past and future of the web. Maciej said that web is like vicious circle: what has been will be again. In the last couple of years, frontend development has become very complex: there are lots of technologies and frameworks to master. Computers move fast. It's happened before, and will happen again.
 
 There was few information about radio history, because like internet now radio brought people closer.
 
@@ -47,7 +47,7 @@ What you're working on, who you are working for matters. It's not about framewor
 <a name="una"></a>
 # Una Kravets (Digital Ocean): The Power of CSS
 
-We can make many Photoshop look-like effects just using css. Una showed us 10 effects written in css: modals, lightboxes, tooltips, scroll indicators, carousels.
+We can make many Photoshop look-like effects just using css. Una showed us 10 effects written in css: modals, lightboxes, tooltips, scroll indicators, carousels ect...
 They don't need JS. You can have the same results using target, data attributes, siblings- and pseudo-selectors.
 
 http://youmightnotneedjs.com/
@@ -55,8 +55,30 @@ http://youmightnotneedjs.com/
 <a name="vitaly"></a>
 # Vitaly Friedman (Smashing Magazine): Smashing Magazine’s 2017 Relaunch
 
+Case study of Smashing Magazine (SM) redesigning. SM was losing lots of revenue because of ad-blocking. Now, they've replaced membership for ad revenue, brought more focus to their paid products (books).
+
+We're too tied in to media queries. Defining the scope of breakpoints is almost impossible considering the huge amounts of devices and viewport sizes possible. You can't be sure your media queries cover everything. Avoid them as much as possible in the design process.
+
+Use:
+- rem for root component
+- em for sub parts
+
+To good adjustment of font sizes they used calc() css function - fluid sizing.
+
 <a name="sam"></a>
 # Sam Bellen (Madewithlove): I didn't know the browser could do that!
+
+APIs supported in Chrome and partialy in other browsers.
+
+- Speech API (speech recognition)
+- Geolocation API
+- Notification API
+- Push API
+- Battery Manager API
+- Media Recorder API
+- tracking.js - snapchat filters
+
+Sam builded his own small siri.
 
 <a name="adam"></a>
 # Adam Morse (compositor.io): The past and future of designing interfaces
