@@ -1,7 +1,7 @@
 # Front Trends 2017
 ### 24- 26 May 2017, Warsaw
 
-#Day 1, May 24th
+#Day 1, May 24th#
 	1. Maciej Ceglowski (Yahoo, Twitter, Otworz ksiązke): Legends of the Ancient Web - Past and future of the Web
 	2. Una Kravets (Digital Ocean): The Power of CSS HTML - CSS
 	3. Vitaly Friedman (Smashing Magazine): Smashing Magazine’s 2017 Relaunch - Responsive design/HTML, CSS, UX
@@ -12,7 +12,7 @@
 	8. Ally Long (freelancer): Field-tested interfaces for the next billion - UX
 	9. Niels Leenheer (HTML5Test.com): Monsters, mailboxes and other nonsense - IoT
 
-#Day 2, May 25th
+#Day 2, May 25th#
 	1. Patrick Hamann (Fastly, The Guardian, Financial Times): The First Meaningful Paint - Performance
 	2. Zoe Mickley Gillenwater (Booking.com): Experimenting your way to a better product - A/B testing
 	3. Vadim Makeev (HTML5Academy): I'm in IoT IoT, APIs - Bluetooth & IoT
@@ -22,7 +22,7 @@
 	7. Jack Franklin (Songkick): The How, What and Why of migrating to ReactJS - React
 	8. Mihai Cernusca (Gifshop): Prevent Default — The future of authoring tools - UX, mark-up, future of the web
 
-#Day 3, May 26th
+#Day 3, May 26th#
 	1. Konrad Dzwinel (Brainly, Google Developer Expert): Alternative Reality DevTools - Devtools
 	2. Martin Splitt (Archilogic):  Rendering performance inside out - performance
 	3. Ida Aalen (freelancer): Easy and affordable user-testing - UX, testing
