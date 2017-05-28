@@ -1,5 +1,7 @@
 ## Front Trends 2017
-### 24- 26 May 2017, Warsaw
+### May 24 - 26, Warsaw
+My notes on [Front-Trends 2017](https://2017.front-trends.com/).
+
 
 **Day 1, May 24th**
 1. [Maciej Ceglowski (Yahoo, Twitter, Otworz ksiązke): Legends of the Ancient Web](#maciej) - *Past and future of the Web*
@@ -23,52 +25,16 @@
 8. [Mihai Cernusca (Gifshop): Prevent Default — The future of authoring tools](#mihai) - *UX, mark-up, future of the web*
 
 **Day 3, May 26th**
-	1. Konrad Dzwinel (Brainly, Google Developer Expert): Alternative Reality DevTools - *Devtools*
-	2. Martin Splitt (Archilogic):  Rendering performance inside out - *Performance*
-	3. Ida Aalen (freelancer): Easy and affordable user-testing - *UX, testing*
-	4. Ola Gasidło (Mozilla): Let's save the internet: How to make browsers compatible with the web - *Browsers*
-	5. Jenna Zeigen (Digital Ocean): On How Your Brain is Conspiring Against You Making Good Software - *Human factor*
-	6. Chris Wright (Campaign Monitor): Changing the layout game HTML - *CSS*
-	7. Rosie Campbel (BBC Technologist): Demystifying Deep Neural Networks - *Machine learning, Neural Networks*
-	8. Phil Hawksworth (R/GA): Microservices - The FAAS and the Furious - *Microservices*
-<!-- ## Front Trends 2017
-### May 24 - 26, Warsaw
-My notes on [Front-Trends 2017](https://2017.front-trends.com/).
+1. [Konrad Dzwinel (Brainly, Google Developer Expert): Alternative Reality DevTools](#konrad) - *Devtools*
+2. [Martin Splitt (Archilogic):  Rendering performance inside out](#martin) - *Performance*
+3. [Ida Aalen (freelancer): Easy and affordable user-testing](#ida) - *UX, testing*
+4. [Ola Gasidło (Mozilla): Let's save the internet: How to make browsers compatible with the web](#ola) - *Browsers*
+5. [Jenna Zeigen (Digital Ocean): On How Your Brain is Conspiring Against You Making Good Software](#jenna) - *Human factor*
+6. [Chris Wright (Campaign Monitor): Changing the layout game HTML](#chris) - *CSS*
+7. [Rosie Campbel (BBC Technologist): Demystifying Deep Neural Networks](#rosie) - *Machine learning, Neural Networks*
+8. [Phil Hawksworth (R/GA): Microservices - The FAAS and the Furious](#phil) - *Microservices*
 
-------------------------------------
-
-**DAY ONE**
-* [Maciej Cegłowski: Legends of the Ancient Web](#maciej) *The future of the web*
-* [Una Kravets: The Power of CSS](#una) *HTML, CSS*
-* [Vitaly Friedman: Smashing Magazine’s 2017 Relaunch](#vitaly) *Responsive design/HTML, CSS, UX*
-* [Sam Bellen: I didn't know the browser could do that!](#sam) *Browsers, APIs*
-* [Adam Morse: The past and future of designing interfaces](#adam) *CSS*
-* [Marco Cedaro: Components, patterns and sh*t it’s hard to deal with](#marco) *Patterns*
-* [Stefan Judis: Watch your back, Browser! You're being observed.](#stefan) *Browsers, APIs*
-* [Ally Long: Field-tested interfaces for the next billion](#ally) *UX*
-* [Niels Leenheer: Monsters, mailboxes and other nonsense](#niels) *IoT*
-
-**DAY TWO**
-* [Patrick Hamman: The First Meaningful Paint](#patrick) *Performance*
-* [Zoe Mickley Gillewater (booking.com): Experimenting your way to a better product](#zoe) *A/B testing*
-* [VADIM MAKEEV: I'm in IoT](#vadim) *IoT, APIs, Bluetooth*
-* [VAL HEAD: Motion In Design Systems: Animation, Style Guides, and the Design Process](#val) *Animation*
-* [KIRUPA CHINNATHAMBI: Building a Progressive Web App](#kirupa) *PWAs*
-* [LIN CLARK: A Cartoon Intro to React Fiber](#lin) *React*
-* [JACK FRANKLIN: The How, What and Why of migrating to ReactJS](#) *React*
-* [MIHAI CERNUSCA: Prevent Default — The future of authoring tools](#) *UX, mark-up, future of the web*
-
-**DAY THREE**
-* [KONRAD DZWINEL: Alternative Reality DevTools](#konrad) *Devtools*
-* [MARTIN SPLITT: Rendering performance inside out](#martin) *Performance*
-* [IDA AALEN: Easy and affordable user-testing](#ida) *UX, testing*
-* [OLA GASIDLO: Let's save the internet: How to make browsers compatible with the web](#ola) *Browsers*
-* [JENNA ZEIGEN: On How Your Brain is Conspiring Against You Making Good Software](#jenna) *Humans*
-* [CHRIS WRIGHT: Changing the layout game](#chris) *HTML, CSS*
-* [ROSIE CAMPBELL: Demystifying Deep Neural Networks](#rosie) *Machine learning*
-* [PHIL HAWKSWORTH: Microservices - The FAAS and the Furious](#socks) *Microservices*
-
-
+<!-- 
 <a name="maciej"></a>
 # Maciej Cegłowski: Legends of the ancient web
 
