@@ -117,8 +117,7 @@ IoT
 
 Hacked neighbours via bluetooth, build water supply for his chickens working via bluetooth.
 
-
-![niels](http://imgur.com/UE5k0bo)
+![niels](http://i.imgur.com/UE5k0bo.png)
 
 
 <a name="ally"></a>
