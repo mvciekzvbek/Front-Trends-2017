@@ -187,11 +187,33 @@ http://i.imgur.com/PNxCyrT.jpg
 <a name="val"></a>
 # Val Head (lynda.com, web design day conference): Motion In Design Systems: Animation, Style Guides, and the Design Process
 
+Plan animations before with whole team: developers, designers, product owners. The better the communication is between the two, the better your animations will be. You'll be able to create re-usable patterns instead of re-inventing the wheel every time there's a new animation.
+
+1. Sketch animation. Meaning matters
+2. Find the trigger of the animation (page load or user gesture)
+3. Motion 
+4. Interactive prototypes
+
 <a name="kirupa"></a>
 # Kirupa Chinnathambi (Microsoft, kirupa.com): Building a Progressive Web App
 
+PWA contains:
+1. Web app
+2. JSON manifest
+3. Service workers
+
+PWAs go beyond the browser. They have a life outside of the browser. They blur the line between web apps and native apps. 
+
+1. PWAs are just web apps thay provide a great user experience.
+2. Use progressive enhancement so everyone can use them.
+3. PWAs work great both inside and outside the browser.
+4. Sometimes they're the right solution, sometimes not, and that's okay.
+5. Have fun!
+
 <a name="lin"></a>
 # Lin Clark (Mozilla): A Cartoon Intro to React Fiber
+
+React Fiber improves performance and responsiveness of complex React applications.
 
 <a name="jack"></a>
 # Jack Franklin (Songkick): The How, What and Why of migrating to ReactJS
