@@ -119,18 +119,70 @@ Hacked neighbours via bluetooth, build water supply for his chickens working via
 
 ![niels](http://i.imgur.com/UE5k0bo.png)
 
-
 <a name="ally"></a>
 # Ally Long (freelancer): Field-tested interfaces for the next billion
+
+Next bilion = Those who have no internet connection yet, like sub-saharan Africa.
+
+- low-end android devices
+- very poor internet connection
+- scratched screens	
+- currently opera mini is the best choice
+- lack of power source
+- people turn their phones off all the time
+- touch screens > laptops
+- under viewport - not discoverable
+- big and simple buttons, obvious actions
+- do not use forms, keep it page-by-page
+- everything is gonna be clicked
+- animations are a bad idea
+- borrow from well-known apps. Facebook, What's App, Gmail already made it there.
 
 <a name="patrick"></a>
 # Patrick Hamann (Fastly, The Guardian, Financial Times): The First Meaningful Paint
 
+The First Meaningful Paint - new metrics, time when a page's primary content appeared on the screen and web fonts have loaded 
+
+https://developers.google.com/web/tools/lighthouse/audits/first-meaningful-paint
+
+How to optimize:
+- inline critical css
+- preload api
+- http/2
+- async push
+
+https://www.webpagetest.org/
+
 <a name="zoe"></a>
 # Zoe Mickley Gillenwater (Booking.com): Experimenting your way to a better product
 
+A/B testing - user decides
+
+Booking.com process:
+1. Make observations, gather ideas
+2. User center hypothesis: why, what, who, outcome? 
+* Why you want to make a change?
+* What is wrong with the current state? What problem are you trying to solve, and what evidence do you have that this is a problem? 
+* Who is going to be exposed to this change? 
+* How are you going to track these people? And what do you expect to happen, how do you measure success and failure? What metrics will you be using? The metric is NOT the goal: it is the measurement of the goal.
+3. Create tests. Start with the smallest change possible.
+4. Plan the test time (week, month)
+5. Do the test. Keep eye on metrics(results)
+6. Accept/reject the hypothesis.
+
+Don't test the same thing over and over again.
+Don't cherry-pick metrics after running the experiment.
+Don't A/B test if you don't have enough data.
+
+
 <a name="vadim"></a>
 # Vadim Makeev (HTML5Academy): I'm in IoT
+
+Another very funny talk about IoT. The drone has been captured by one from the attandence.
+
+http://i.imgur.com/PNxCyrT.jpg
+
+![vadim](http://i.imgur.com/PNxCyrT.jpg)
 
 <a name="val"></a>
 # Val Head (lynda.com, web design day conference): Motion In Design Systems: Animation, Style Guides, and the Design Process
