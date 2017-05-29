@@ -83,14 +83,43 @@ Sam builded his own small siri.
 <a name="adam"></a>
 # Adam Morse (compositor.io): The past and future of designing interfaces
 
+Very hard to summarize. General presentation about programming, not about something specific.
+
+Humans tend to make a lot of mistakes when working with data. We are not good at it.  A possible line of defense is modularity: breaking down a complex thing into understandable things might just help us avoid errors.
+
+A simple component can have thousands of states. And that's what computers should be for: see these states. That's not a human task. Seeing and testing all possible states of components would make any developer's life easier.
+
+"People want to do, people don't want to learn how to do"
+
+"Find your people, dream big, start a revolution"
+
 <a name="marco"></a>
 # Marco Cedaro (Shazam, Kahoot, Crowdcube): Components, patterns and sh*t it’s hard to deal with
 
+Patterns came really late into web development. Generally, everything we are doing now (patterns, components, modules), we are doing for improving maintainability of the code. Find the way to re-use your patterns, think about what problem you are trying to solve. Get involved early, talk to people (designers, product managers, not just devs).
+
 <a name="stefan"></a>
 # Stefan Judis (Contentful): Watch your back, Browser! You're being observed.
+Now to increase performance we can use Browser API, especially observables. Try to find what performs bad and find better way eg. getBoundingClientRect() -> Intersection Observer
+
+Check out:
+* https://developer.mozilla.org/en-US/docs/Web/API/MutationObserver
+* https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API
+* https://developer.mozilla.org/en-US/docs/Web/API/Navigation_timing_API
+* https://developer.mozilla.org/en-US/docs/Web/API/Resource_Timing_API
+* https://developer.mozilla.org/en-US/docs/Web/API/User_Timing_API
+* https://developer.mozilla.org/en-US/docs/Web/API/PerformanceObserver
 
 <a name="niels"></a>
 # Niels Leenheer (HTML5Test.com): Monsters, mailboxes and other nonsense
+
+IoT
+
+Hacked neighbours via bluetooth, build water supply for his chickens working via bluetooth.
+
+
+![niels](http://imgur.com/UE5k0bo)
+
 
 <a name="ally"></a>
 # Ally Long (freelancer): Field-tested interfaces for the next billion
