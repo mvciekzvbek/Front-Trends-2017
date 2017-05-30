@@ -245,6 +245,16 @@ The history of authoring tools, starting from Macintosh text editor, through MS 
 <a name="konrad"></a>
 # Konrad Dzwinel (Brainly, Google Developer Expert): Alternative Reality DevTools
 
+The history of the Dev Tools. It started from seperate application. Mozilla was first who attached devtools to browser. Now every browser has very powerfull DevTool. 
+
+Konrad did a step forward and present us his ideas about what could add more value to modern web browsers. He did a small research in other industries like architecture (autocad), integrated circuts design (LabView), movie production to inspire and found few things:
+1. Graphics elements preview (eg. svg)
+2. Component debugger (to debug seperate element without rendering whole page)
+3. Timeline of rendering (what customer see eg. after 2 seconds)
+4. Infinite canvas (debug many devices within same screen)
+
+![konrad](http://i.imgur.com/YViWjZy.jpg)
+
 <a name="martin"></a>
 # Martin Splitt (Archilogic):  Rendering performance inside out
 
