@@ -234,6 +234,7 @@ Learn as migrate and get better at it.
 Don't break existing functionality.
 
 https://github.com/ngReact/ngReact
+
 https://www.sitepoint.com/test-react-components-jest/
 
 <a name="mihai"></a>
