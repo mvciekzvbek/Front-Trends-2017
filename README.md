@@ -1,6 +1,6 @@
 ## Front Trends 2017
 ### May 24 - 26, Warsaw
-My notes on [Front-Trends 2017](https://2017.front-trends.com/).
+Notes on [Front-Trends 2017](https://2017.front-trends.com/).
 
 
 **Day 1, May 24th**
@@ -258,14 +258,69 @@ Konrad did a step forward and present us his ideas about what could add more val
 <a name="martin"></a>
 # Martin Splitt (Archilogic):  Rendering performance inside out
 
+Pixels are the smallest possible graphic unit, and it's technically a small box which we can color in by making 3 tinier dots inside it in three colours: red, green, blue. They are independent.
+
+* 0: lowest intensity
+* 255: highest (brightest)
+
+Sprites(layers) are arrays of pixels. We can manipulate them using math functions:
+* output[x, y] = source[x, y] || dest[x, y]
+* Screen blend mode: color(x, y) = 1 - (1 - color(x, y)) * (1 - color(x, y))
+* Translate (move): source[x + a, y +b] + dest[x, y]
+* Rotate, translate, scaling, blending and filters are all composites (no browser repainiting)
+
+Composite-only filters:
+* grayscale
+* blur
+* contrast
+* hue-rotate
+* invert
+* opacity
+* saturate
+* sepia
+* drop-shadow (repaints in Safari)
+
+Pixels are just a bunch of numbers in memory. Useful to be separate them in layers. Compositing is combining these layers, and blending is how exactly we combine them. Compositing can be done concurrently, because pixels are independent of each other.
+
+Performance is the art of avoiding work (Paul Lewis). The more work avoided, the faster we can render.
+
+`will-change` only works if the element isn't in the layout flow!
+
+* https://csstriggers.com/
+
+![martin](http://i.imgur.com/ya2Plxi.jpg)
+
 <a name="ida"></a>
 # Ida Aalen (freelancer): Easy and affordable user-testing
+
+1. Hit the streets(take snacks for testers).
+2. Information architecture (set up a survey about your information architecture and ask people what do they think).
+3. First click
+4. Prototype meets actual user(link to prototype instead of current version of website)
+5. Did you get it done? Did user found what he/she was looking for?
+6. Microtesting content
+7. Weakly drop-in test: in lab/office.
 
 <a name="ola"></a>
 # Ola Gasidło (Mozilla): Let's save the internet: How to make browsers compatible with the web
 
+Report browser bugs! http://webcompat.com/
+
+Browser wars:
+1st Browser War: 1995-2002, IE vs Netscape
+2nd Browser War: 2003-2014, Opera vs Safari vs Firefox vs Chrome
+
+Participate in improving specification, report bugs!
+
 <a name="jenna"></a>
 # Jenna Zeigen (Digital Ocean): On How Your Brain is Conspiring Against You Making Good Software
+
+We do not think logically, we prefer workaround rather than better but more time consuming solution
+We have problems with thinking outside the box, approach different point of view -> pair programming, taking breakes
+We are terrible at estimating (we overestimate)
+We prefer things that we made
+
+![jenna](http://i.imgur.com/niMzE90.jpg)
 
 <a name="chris"></a>
 # Chris Wright (Campaign Monitor): Changing the layout game HTML
