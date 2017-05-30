@@ -307,8 +307,8 @@ Performance is the art of avoiding work (Paul Lewis). The more work avoided, the
 Report browser bugs! http://webcompat.com/
 
 Browser wars:
-1st Browser War: 1995-2002, IE vs Netscape
-2nd Browser War: 2003-2014, Opera vs Safari vs Firefox vs Chrome
+* 1st Browser War: 1995-2002, IE vs Netscape
+* 2nd Browser War: 2003-2014, Opera vs Safari vs Firefox vs Chrome
 
 Participate in improving specification, report bugs!
 
