@@ -2,6 +2,7 @@
 ### May 24 - 26, Warsaw
 Notes on [Front-Trends 2017](https://2017.front-trends.com/).
 
+![ft](http://i.imgur.com/gHkhVy3.jpg)
 
 **Day 1, May 24th**
 1. [Maciej Ceglowski (Yahoo, Twitter, Otworz ksiązke): Legends of the Ancient Web](#maciej) - *Past and future of the Web*
@@ -78,7 +79,10 @@ APIs supported in Chrome and partialy in other browsers.
 - Media Recorder API
 - tracking.js - snapchat filters
 
-Sam builded his own small siri.
+Sam builded his own small cat-siri.
+
+
+![sam](http://i.imgur.com/wQX5hEZ.jpg)
 
 <a name="adam"></a>
 # Adam Morse (compositor.io): The past and future of designing interfaces
