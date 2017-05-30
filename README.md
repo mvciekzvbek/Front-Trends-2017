@@ -240,7 +240,7 @@ https://www.sitepoint.com/test-react-components-jest/
 <a name="mihai"></a>
 # Mihai Cernusca (Gifshop): Prevent Default — The future of authoring tools
 
-The history of authoring tools, starting from Macintosh text editor and ending with Google Documents.
+The history of authoring tools, starting from Macintosh text editor, through MS Word and ending with Google Documents.
 
 <a name="konrad"></a>
 # Konrad Dzwinel (Brainly, Google Developer Expert): Alternative Reality DevTools
