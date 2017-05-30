@@ -84,11 +84,9 @@ Sam builded his own small cat-siri.
 <a name="adam"></a>
 # Adam Morse (compositor.io): The past and future of designing interfaces
 
-Very hard to summarize. General presentation about programming, not about something specific.
+General presentation about programming, not about anything specific.
 
-Humans tend to make a lot of mistakes when working with data. We are not good at it.  A possible line of defense is modularity: breaking down a complex thing into understandable things might just help us avoid errors.
-
-A simple component can have thousands of states. And that's what computers should be for: see these states. That's not a human task. Seeing and testing all possible states of components would make any developer's life easier.
+Break down the code into small pieces to avoid errors.
 
 "People want to do, people don't want to learn how to do"
 
