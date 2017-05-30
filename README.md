@@ -43,10 +43,12 @@ There was few information about radio history, because like internet now radio b
 
 Technology and human nature interact in interesting ways. It is very possible the things we build may be used for bad later on. This is a threat, and we need to take it seriously.
 
-What you're working on, who you are working for matters. It's not about frameworks and libraries, it's about direction the internet is going. We need to from history of radio and how it was used for evil and try not to repeat those mistakes.
+What you're working on, who you are working for matters. It's not about frameworks and libraries, it's about direction the internet is going. We need to learn from history of radio and how it was used for evil and try not to repeat those mistakes.
 
 <a name="una"></a>
 # Una Kravets (Digital Ocean): The Power of CSS
+
+![una](http://i.imgur.com/g6Ktolj.jpg)
 
 We can make many Photoshop look-like effects just using css. Una showed us 10 effects written in css: modals, lightboxes, tooltips, scroll indicators, carousels ect...
 They don't need JS. You can have the same results using target, data attributes, siblings- and pseudo-selectors.
@@ -122,6 +124,7 @@ IoT
 Hacked neighbours via bluetooth, build water supply for his chickens working via bluetooth.
 
 ![niels](http://i.imgur.com/UE5k0bo.png)
+![niels](http://i.imgur.com/oj9IwTj.jpg)
 
 <a name="ally"></a>
 # Ally Long (freelancer): Field-tested interfaces for the next billion
