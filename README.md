@@ -37,13 +37,12 @@ Notes on [Front-Trends 2017](https://2017.front-trends.com/).
 
 <a name="maciej"></a>
 # Maciej Ceglowski (Yahoo, Twitter, Otworz ksiązke): Legends of the Ancient Web
-Presentation about past and future of the web. Maciej said that web is like vicious circle: what has been will be again. In the last couple of years, frontend development has become very complex: there are lots of technologies and frameworks to master. Computers move fast. It's happened before, and will happen again.
+Presentation about past and future of the web. Maciej said that web is like vicious circle: what has been will be again. 
+IT industry is developing really fast, computers moves fasts. It's happened before, and will happen again.
 
 There was few information about radio history, because like internet now radio brought people closer.
 
-Technology and human nature interact in interesting ways. It is very possible the things we build may be used for bad later on. This is a threat, and we need to take it seriously.
-
-What you're working on, who you are working for matters. It's not about frameworks and libraries, it's about direction the internet is going. We need to learn from history of radio and how it was used for evil and try not to repeat those mistakes.
+Just like with radio, there is posibility that things we are making will be used for bad purposes. That's why it's important what are you doing and for who are you working for.
 
 <a name="una"></a>
 # Una Kravets (Digital Ocean): The Power of CSS
@@ -58,13 +57,9 @@ http://youmightnotneedjs.com/
 <a name="vitaly"></a>
 # Vitaly Friedman (Smashing Magazine): Smashing Magazine’s 2017 Relaunch
 
-Case study of Smashing Magazine (SM) redesigning. SM was losing lots of revenue because of ad-blocking. Now, they've replaced membership for ad revenue, brought more focus to their paid products (books).
+Case study of Smashing Magazine redesigning. SM was losing lots of revenue because of ad-blocking. Now, they've replaced it with membrship.
 
-We're too tied in to media queries. Defining the scope of breakpoints is almost impossible considering the huge amounts of devices and viewport sizes possible. You can't be sure your media queries cover everything. Avoid them as much as possible in the design process.
-
-Use:
-- rem for root component
-- em for sub parts
+Media queries will not cover everyting, avoid them as much as possible in the design process
 
 To good adjustment of font sizes they used calc() css function - fluid sizing.
 
