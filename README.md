@@ -315,12 +315,12 @@ Participate in improving specification, report bugs!
 <a name="jenna"></a>
 # Jenna Zeigen (Digital Ocean): On How Your Brain is Conspiring Against You Making Good Software
 
-We do not think logically, we prefer workaround rather than better but more time consuming solution
-We have problems with thinking outside the box, approach different point of view -> pair programming, taking breakes
-We are terrible at estimating (we overestimate)
-We prefer things that we made
-Unskilled people think they are better at tasks than thet actually are.
-Skilled people underestimate their abilities and think that tasks which are easy for them are easy for others
+* We do not think logically, we prefer workaround rather than better but more time consuming solution
+* We have problems with thinking outside the box, approach different point of view -> pair programming, taking breakes
+* We are terrible at estimating (we overestimate)
+* We prefer things that we made
+* Unskilled people think they are better at tasks than thet actually are.
+* Skilled people underestimate their abilities and think that tasks which are easy for them are easy for others
 
 
 ![jenna](http://i.imgur.com/niMzE90.jpg)
