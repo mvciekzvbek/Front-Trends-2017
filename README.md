@@ -227,10 +227,19 @@ How to move from Angular to React and still maintain the product?
 
 ![jack](http://i.imgur.com/x8EnmBL.jpg)
 
+Release early and often, one bit by a time.
 
+Learn as migrate and get better at it.
+
+Don't break existing functionality.
+
+https://github.com/ngReact/ngReact
+https://www.sitepoint.com/test-react-components-jest/
 
 <a name="mihai"></a>
 # Mihai Cernusca (Gifshop): Prevent Default — The future of authoring tools
+
+The history of authoring tools, starting from Macintosh text editor and ending with Google Documents.
 
 <a name="konrad"></a>
 # Konrad Dzwinel (Brainly, Google Developer Expert): Alternative Reality DevTools
