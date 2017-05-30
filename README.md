@@ -146,10 +146,10 @@ The First Meaningful Paint - new metrics, time when a page's primary content app
 https://developers.google.com/web/tools/lighthouse/audits/first-meaningful-paint
 
 How to optimize:
-- inline critical css
-- preload api
-- http/2
-- async push
+- Inline critical css - css cannot be parsed incrementally like HTML, until css is loaded we will see white page even though html is already rendered. Inlining critical parts of css can improve rendering (first meaningfull paint) significantly - unfortunately not cachable
+- Preload api - heavy resources: logos, images, fonts
+- HTTP/2 server push - send resources before server requests for them - requires server logic
+- Async push
 
 https://www.webpagetest.org/
 
@@ -178,9 +178,7 @@ Don't A/B test if you don't have enough data.
 <a name="vadim"></a>
 # Vadim Makeev (HTML5Academy): I'm in IoT
 
-Another very funny talk about IoT. The drone has been captured by one from the attandence.
-
-http://i.imgur.com/PNxCyrT.jpg
+Another very funny talk about IoT. The drone has been hacked and captured by one attendee.
 
 ![vadim](http://i.imgur.com/PNxCyrT.jpg)
 
@@ -189,8 +187,7 @@ http://i.imgur.com/PNxCyrT.jpg
 
 Plan animations before with whole team: developers, designers, product owners. The better the communication is between the two, the better your animations will be. You'll be able to create re-usable patterns instead of re-inventing the wheel every time there's a new animation.
 
-1. Sketch animation. Meaning matters
-2. Find the trigger of the animation (page load or user gesture)
+1. Sketch animation. Meaning matters. Find the trigger of the animation (page load or user gesture)
 3. Motion 
 4. Interactive prototypes
 
@@ -202,6 +199,8 @@ PWA contains:
 2. JSON manifest
 3. Service workers
 
+![kirupa](http://i.imgur.com/Q8SMbka.jpg)
+
 PWAs go beyond the browser. They have a life outside of the browser. They blur the line between web apps and native apps. 
 
 1. PWAs are just web apps thay provide a great user experience.
@@ -210,6 +209,13 @@ PWAs go beyond the browser. They have a life outside of the browser. They blur t
 4. Sometimes they're the right solution, sometimes not, and that's okay.
 5. Have fun!
 
+Check out:
+* https://ionicframework.com/
+* http://www.pwabuilder.com/
+* https://github.com/jeffposnick/create-react-pwa
+* https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API
+* https://www.pwastats.com/
+
 <a name="lin"></a>
 # Lin Clark (Mozilla): A Cartoon Intro to React Fiber
 
@@ -217,6 +223,11 @@ React Fiber improves performance and responsiveness of complex React application
 
 <a name="jack"></a>
 # Jack Franklin (Songkick): The How, What and Why of migrating to ReactJS
+How to move from Angular to React and still maintain the product?
+
+![jack](http://i.imgur.com/x8EnmBL.jpg)
+
+
 
 <a name="mihai"></a>
 # Mihai Cernusca (Gifshop): Prevent Default — The future of authoring tools
