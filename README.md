@@ -227,6 +227,8 @@ How to move from Angular to React and still maintain the product?
 
 ![jack](http://i.imgur.com/x8EnmBL.jpg)
 
+PLAN!
+
 Release early and often, one bit by a time.
 
 Learn as migrate and get better at it.
